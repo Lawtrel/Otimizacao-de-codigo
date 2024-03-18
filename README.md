@@ -1,0 +1,1 @@
+objetivo desse código é ver o tempo de execução mandando o processador gerar a soma de 1 milhão de números ao quadrado, ai ele vai printar o valor do resultado e depois o tempo que ele levou em segundos.
